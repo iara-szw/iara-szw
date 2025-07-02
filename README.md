@@ -49,8 +49,6 @@
 
 <p align="center">
   <img src="https://em-content.zobj.net/source/microsoft-teams/363/shooting-star_1f320.png" width="18" alt="Estrella fugaz"/>
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/sparkle_2747.png" width="18" alt="Sparkle"/>
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/large-blue-diamond_1f537.png" width="18" alt="Diamante azul grande"/>
   <img src="https://em-content.zobj.net/source/microsoft-teams/363/shooting-star_1f320.png" width="18" alt="Estrella fugaz"/>
 </p>
 
