@@ -21,7 +21,7 @@ Estética: holográfico, galáctico, geométrico
 
 <div align="center" style="margin: 10px 0;">
   <span style="font-size:1.2em; font-weight:bold; color:#45b3e6; letter-spacing:1.5px; text-shadow: 0 0 6px #63e5ff;">
-    ₊˚ʚ✩ɞ˚₊⊹⊱✫⊰⊹ Explora, imagina, crea. ₊˚ʚ✩ɞ˚₊⊹⊱✫⊰⊹
+    ₊˚ʚ✩ɞ˚₊⊹⊱✫⊰⊹ Explora, imagina, crea. ⊹⊱✫⊰⊹₊˚ʚ✩ɞ˚₊
   </span>
 </div>
 
